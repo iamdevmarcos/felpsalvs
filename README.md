@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Alves</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felpsalvs&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Jr Web Developer 
+- 🔥 Desenvolvedor Front End Jr 
 
-- 🔭 I’m currently looking for my first job as front-end developer
+- 🔭 Atualmente estou procurando meu primeiro emprego como desenvolvedor front-end.
 
-- 💬 I'm studying about **JavaScript, React, HTML, CSS**
+- 💬 Eu tô estudando atualmente **JavaScript, React Js, HTML, CSS**
 
 <br><br>
 
