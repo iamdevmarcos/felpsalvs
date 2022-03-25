@@ -49,7 +49,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/felipe-alves7" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-felpsalvs-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/felpsalvs" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-felpsalvs-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
