@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 Atualmente estou procurando meu primeiro emprego como desenvolvedor front-end.
 
-- 💬 Eu tô estudando atualmente **JavaScript, React Js, HTML, CSS**
+- 💬 Eu tô estudando atualmente **JavaScript, Next Js e React Js**
 
 <br><br>
 
