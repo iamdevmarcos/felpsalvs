@@ -31,8 +31,8 @@ You can click the Preview link to take a look at your changes.
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=felpsalvs&show_icons=true&theme=vision-friendly-dark" alt="felpsalvs's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsalvs&layout=compact&theme=vision-friendly-dark" alt="felpsalvs's most languages"/>
+<img width="330em" src="https://github-readme-stats.vercel.app/api?username=felpsalvs&show_icons=true&theme=vision-friendly-dark" alt="felpsalvs's stats"/>
+<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsalvs&layout=compact&theme=vision-friendly-dark" alt="felpsalvs's most languages"/>
 </p>
 
 <br><br>
