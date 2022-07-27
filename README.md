@@ -6,7 +6,7 @@
 
 <br><br>
 
-## Tech Stack
+## Tecnologias
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![STYLED-COMPONENTS](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
@@ -23,7 +23,7 @@
         
 <br><br>
 
-## GitHub Analytics
+## Análises GitHub
 
 <p align="left">
 <img width="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsalvs&theme=blue-green" alt="felpsalvs's most languages"/>
@@ -32,7 +32,7 @@
 
 <br><br>
 
-## Social Links
+## Redes Sociais
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/felpsalvs" target="_blank">
