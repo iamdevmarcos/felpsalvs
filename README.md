@@ -1,6 +1,6 @@
 - 🔥 <b>Foco!<b/>
 
-- 🔭 Estou em busca do meu primeiro estágio ou emprego como desenvolvedor.
+- 🔭 Estou em busca do meu primeiro emprego como desenvolvedor ou estágio.
 
 - 💬 Eu tô me especializando atualmente em **JavaScript e React Js**
 
