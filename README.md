@@ -1,5 +1,15 @@
-- 🔥 <b>Foco!<b/>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
+⚡ Desenvolvedor de Software no <a href="https://grupoedsonqueiroz.com.br/">Grupo Edson Queiroz</a><br/>
+⚛ TypeScript • React <br/>
+
+### Objetivos 💭
+Especializando em fornecer soluções Web e mobile de alta qualidade. <br/>
+<p>Autodidata, aprendiz diário, assertivo, com bom espírito de equipe, automotivado e capaz de trabalhar sob pressão. Exigindo supervisão mínima, eu posso lidar com várias demandas e definir prioridades.
+
+Sou um programador focado em fornecer resoluções de problemas. Ajudando as empresas a criar aplicativos Web e móveis complexos que atendem usuários em todo o mundo com React e tecnologias modernas. Desenvolvendo aplicativos que não são apenas bonitos, mas agradáveis de usar e que realmente funcionem.
+
+Sempre escrevendo não apenas software sustentável e escalável, mas também o código legível que tornará a escalabilidade e a manutenção possíveis.</p>
 <br><br>
 
 ## Tecnologias
@@ -10,30 +20,16 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Affinity](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
         
-<br><br>
-
-## Análises GitHub
-
-<p align="left">
-<img width="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsalvs&theme=blue-green" alt="felpsalvs's most languages"/>
-<img width="330em" src="https://github-readme-stats.vercel.app/api?username=felpsalvs&theme=blue-green"/>
-</p>
-
 <br><br>
 
 ## Redes Sociais
 
 <p align="left" style="background:yellow">
 
-<a href="https://twitter.com/felpsalvs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
-</a>
 <a href="https://linkedin.com/in/felipe-alves7" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
